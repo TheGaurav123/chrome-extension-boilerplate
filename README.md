@@ -33,7 +33,12 @@ Run the following:
 ```bash
 pnpm build
 # or
+
+
 npm run build
 ```
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
+
+#Demo_Video
+https://github.com/TheGaurav123/chrome-extension-boilerplate/assets/109990519/bbbdec03-a6a6-4dbc-8445-4858e3a62d42
